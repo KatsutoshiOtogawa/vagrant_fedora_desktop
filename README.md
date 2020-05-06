@@ -1,0 +1,2 @@
+# vagrant_fedora_desktop
+vagrant環境下でfedoraのデスクトップです。開発環境としてどうぞ。
