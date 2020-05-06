@@ -1,2 +1,4 @@
 # vagrant_fedora_desktop
-vagrant環境下でfedoraのデスクトップです。開発環境としてどうぞ。
+Fedora Destop in vagrant environment.
+
+Now this version is fedora 31.
